@@ -9,29 +9,46 @@
 
 ## Summary
 
-* 6+ years experience with leading team and project manage.Outstanding communication and stakeholder management skills.
-
+* 8+ years experience with leading team and project manage.Outstanding communication and stakeholder management skills.
 * Strong design & modelling skills and relevant experience.
-
 * 8+ years experience with developer(Java/C++/Python),Strong understanding of architect design. Use the Springboot, SpringCloud,SpringMVC.
-
 * Familiar with distributed system design and application. like redis, rabbitmq, kafka,recommendation.
-
 * Strong skill on DB and NoSql.like mysql, oracle. mongodb.
-
-
+* Good at OpenDevops(Docker, Jenkins) with AWS, Aliyun, QCloud
+* With strong business modeling capability
 
 ## Experience
 
+**Senior Technical Architect** [Hankang](http://chkang.com/)
+
+*Feb 2019 - Now*
+
+- Design the HK Big Data Platform and IOT Bus Platform Architecture
+
+- Responsible for new product and new project framworks build
+
+- Planning the annual task of  research and development  in company
+
+- Responseible for deployment planning to business and government
+
+- Manage the project results and make them Producibility
+
+  
+
 ### **CTO**  [Quantumfootball](https://www.qfootball.cn)
 
-*June 2016 - Present*
+*June 2016 - Jan 2019*
 
 
 * Design and developer the architect of liangzizuqiu App.
+
 * Leading the R&D department.
+
 * Make development Plan and cycle.
+
 * Solve the technical difficulties.
+
+  
 
 
 ### **CTO** [blueberry](https://www.lagou.com/gongsi/38300.html)
@@ -101,6 +118,7 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ### DB 
 - [MySql](https://www.mysql.com/)
+- [MSSQL](https://www.microsoft.com/zh-cn/sql-server/)
 - [Redis](https://redis.io)
 - [Mongodb](https://www.mongodb.com/)
 - [Orcale](https://www.oracle.com)
